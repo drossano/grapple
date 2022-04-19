@@ -3,14 +3,14 @@ var app = (function () {
   var twitter = 'joywavez'
   var startDate = "2022-04-18"
     const Cn = ue([
-      "Cody Rhodes - Kingdom - Downstait",
+      "Cody Rhodes",
     ]),
     On = {
       subscribe: ue(
         [
           {
             url: "https://soundcloud.com/xbite-97900268/cody-rhodes-wwe-entrance-theme",
-            answer: "Cody Rhodes - Kingdom - Downstait",
+            answer: "Cody Rhodes",
           },
 
         ],
