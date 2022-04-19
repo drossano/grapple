@@ -1,9 +1,16 @@
 var app = (function () {
   var artist = 'Joywave';
-  var twitter = 'joywavez'
+  var twitter = 'Naed_'
   var startDate = "2022-04-18"
     const Cn = ue([
       "Cody Rhodes",
+      "Kenny Omega",
+      "Brodie Lee",
+      "Super Elite",
+      "Adam Page",
+      "CM Punk"
+
+
     ]),
     On = {
       subscribe: ue(
@@ -12,6 +19,36 @@ var app = (function () {
             url: "https://soundcloud.com/xbite-97900268/cody-rhodes-wwe-entrance-theme",
             answer: "Cody Rhodes",
           },
+
+          {
+            url: "https://soundcloud.com/allelitewrestling/battle-cry",
+            answer: "Kenny Omega",
+          },
+
+          {
+            url: "https://soundcloud.com/allelitewrestling/brodie-lee",
+            answer: "Brodie Lee",
+          },
+
+          {
+            url: "https://soundcloud.com/allelitewrestling/superelitetheme",
+            answer: "Super Elite"
+          },
+
+          {
+            url: "https://soundcloud.com/allelitewrestling/christian-cage-theme",
+            answer: "Christian Cage"
+          },
+
+          {
+            url: "https://soundcloud.com/1400jace/hangman-page-theme-ghost-town-triumph",
+            answer: "Adam Page"
+          },
+
+          {
+            url: "https://soundcloud.com/user217301552/cult-of-personality",
+            answer: "CM Punk"
+          }
 
         ],
         Pn
@@ -3327,7 +3364,7 @@ var app = (function () {
     P(() => {
       !(function () {
         const e = new wt({
-          placeHolder: "Know it? Search for the artist / title",
+          placeHolder: "Know it? Search for the wrestler",
           threshold: 1,
           wrapper: !1,
           resultsList: {
@@ -4042,7 +4079,7 @@ var app = (function () {
             (f = w("div")),
             (m = w("div")),
             (k = w("div")),
-            (k.textContent = "Next " + artist + " song in:"),
+            (k.textContent = "Next entrance song in:"),
             (b = x()),
             Q(S.$$.fragment),
             (D = x()),
@@ -4564,7 +4601,7 @@ var app = (function () {
           (t = w("div")),
             (n = w("div")),
             (n.innerHTML =
-              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct ' + artist + ' song in the list.</p></div>'),
+              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct wrestler in the list.</p></div>'),
             (r = x()),
             (s = w("div")),
             (s.innerHTML =
