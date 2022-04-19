@@ -1079,7 +1079,7 @@ var app = (function () {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = artist + " Heardle"),
+            (u.textContent = "Grapple"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
@@ -4005,7 +4005,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a> but for ' + artist + ' songs.</p> \n\n<p class="mb-3">Each ' + artist + ' Heardle is randomly chosen from ' + artist + '\'s discography.</p> \n\n\n\n <p class="mb-3">Have questions/run into bugs? DM me @'+ twitter +' on twitter! </p>  \n\n\n\n <p class="mb-3">Want to make your own Heardle? Check out the <a href="https://glitch.com/edit/#!/joywave-heardle?path=README.md">README</a>  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
+            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a>, and <a href="https://heardle-kpop.glitch.me/" title="Heardle">K-Pop Heardle</a> but for wrestling entrance songs.</p> \n\n<p class="mb-3">Each entrance song is randomly chosen from a curated list.</p> \n\n\n\n <p class="mb-3">Have questions/run into bugs? DM me @'+ twitter +' on twitter! </p>  \n\n\n\n <p class="mb-3">Want to make your own Heardle? Check out the <a href="https://glitch.com/edit/#!/joywave-heardle?path=README.md">README</a>  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">Soundcloud</a>,\n    <a href="https://svelte.dev">Svelte</a>,\n    <a href="https://tailwindcss.com">Tailwind</a>,\n    <a href="https://fonts.google.com/noto/specimen/Noto+Serif+Display">Noto Serif Display</a>, <a href="https://fonts.google.com/noto/specimen/Noto+Sans">Noto Sans</a>,\n    <a href="https://iconsvg.xyz">IconSVG</a>, <a href="https://momentjs.com">momentjs</a>,\n    <a href="https://tarekraafat.github.io/autoComplete.js/#/">autocomplete.js</a>, and powered by <a href="https://glitch.com/">Glitch</a>. <a href="https://omakase.studio" title="Studio Omakase">Served omakase / お任せ</a>. '),
           M(n, "class", "text");
       },
       m(e, t) {
@@ -4605,7 +4605,7 @@ var app = (function () {
       s = (e[0].length * e[1].attemptInterval) / 1e3 + "";
     return {
       c() {
-        (t = _("You got today's " + artist + " Heardle within the first ")),
+        (t = _("You got today's Grapple within the first ")),
           (n = _(s)),
           (r = _(" seconds."));
       },
@@ -4632,7 +4632,7 @@ var app = (function () {
       a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
     return {
       c() {
-        (t = _("You got today's " + artist + " Heardle within ")),
+        (t = _("You got today's Grapple within ")),
           (n = _(o)),
           (r = _("\n                second")),
           (s = _(a)),
@@ -4663,7 +4663,7 @@ var app = (function () {
     return {
       c() {
         n = _(
-          "You didn't get today's " + artist + " Heardle. Better luck tomorrow! 💎"
+          "You didn't get today's Grapple. Better luck tomorrow! 💎"
         );
       },
       m(e, t) {
@@ -4805,7 +4805,7 @@ var app = (function () {
         u,
         c,
         () => {
-          let e = artist + " Heardle #" + (s.id + 1),
+          let e = "Grapple #" + (s.id + 1),
             t = "";
           a
             ? r.length < i.maxAttempts / 3
@@ -9295,12 +9295,12 @@ var app = (function () {
           Q(Y.$$.fragment),
           (C = x()),
           H && H.c(),
-          (An.title = artist + " Heardle"),
+          (An.title = "Grapple"),
           M(t, "name", "description"),
           M(
             t,
             "content",
-            "Guess the " + artist + " song from the intro in as few tries as possible"
+            "Guess the wrestling entrance song from the intro in as few tries as possible"
           ),
           M(n, "rel", "apple-touch-icon"),
           M(n, "sizes", "180x180"),
