@@ -63,8 +63,6 @@ var app = (function () {
       "Malakai Black",
       "Penelope Ford",
       "Jade Cargill",
-
-
     ]),
     On = {
       subscribe: ue(
