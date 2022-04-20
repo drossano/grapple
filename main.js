@@ -1,7 +1,7 @@
 var app = (function () {
   var artist = 'Joywave';
   var twitter = 'Naed_'
-  var startDate = "2022-04-18"
+  var startDate = "2022-04-19"
     const Cn = ue([
       "Cody Rhodes",
       "Kenny Omega",
