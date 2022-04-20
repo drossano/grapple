@@ -68,6 +68,139 @@ var app = (function () {
       subscribe: ue(
         [
           {
+            url: "https://soundcloud.com/weiweiweiweiwei/cfo-destroyer-wwe-nxt-samoa-joes-theme-song",
+            answer: "Samoa Joe",
+          },
+
+          {
+            url: "https://soundcloud.com/fansmackdownv2/sami-zayn-worlds-apart",
+            answer: "Sami Zayn",
+          },
+
+          {
+            url: "https://soundcloud.com/wg99/pac-aew-theme-song",
+            answer: "PAC",
+          },
+
+          {
+            url: "https://soundcloud.com/wg99/malakai-black-aew-theme",
+            answer: "Malakai Black",
+          },
+
+          {
+            url: "https://soundcloud.com/wg99/penelope-ford-aew-theme",
+            answer: "Penelope Ford",
+          },
+
+          {
+            url: "https://soundcloud.com/wg99/jade-cargill-aew-theme",
+            answer: "Jade Cargill",
+          },
+          {
+            url: "https://soundcloud.com/rancid-official/ruby-soho-1",
+            answer: "Ruby Soho",
+          },
+
+          {
+            url: "https://soundcloud.com/wwe_entertainmenthd/wwe-nxt-celtic-invsaion-becky-lynch-4th-theme",
+            answer: "Becky Lynch",
+          },
+
+          {
+            url: "https://soundcloud.com/wg99/th2-aew-theme-song",
+            answer: "TH2",
+          },
+          {
+            url: "https://soundcloud.com/user-828326915/oedo-tai-2nd-stardom-theme",
+            answer: "Oedo Tai",
+          },
+
+          {
+            url: "https://soundcloud.com/ogb64/pete-dunne-bruiserweight-official-theme",
+            answer: "Pete Dunne",
+          },
+
+          {
+            url: "https://soundcloud.com/user-385039442/bray-wyatt-the-fiend-let-me-in-entrance-theme",
+            answer: "Bray Wyatt/The Fiend",
+          },
+
+          {
+            url: "https://soundcloud.com/soleil-gaskin/proud-n-powerful",
+            answer: "Proud N Powerful",
+          },
+
+          {
+            url: "https://soundcloud.com/wg99/jon-moxley-1st-aew-theme-song",
+            answer: "Jon Moxley",
+          },
+
+          {
+            url: "https://soundcloud.com/weiweiweiweiwei/aj-styles-phenomenal-official-wwe-theme-song-by-cfo",
+            answer: "AJ Styles",
+          },
+
+          {
+            url: "https://soundcloud.com/weiweiweiweiwei/cfos-skys-the-limit-sb",
+            answer: "Sasha Banks",
+          },
+
+          {
+            url: "https://soundcloud.com/masterjim87/the-wingmen-aew-theme-song-the",
+            answer: "Ryan Nemeth",
+          },
+
+          {
+            url: "https://soundcloud.com/pedro-oliveira-96824463/tarzan-boy",
+            answer: "Jungle Boy",
+          },
+
+          {
+            url: "https://soundcloud.com/jcenawwe1/undertaker-theme-song-2010",
+            answer: "The Undertaker"
+          },
+
+          {
+            url: "https://soundcloud.com/total-wrestling-network/wwe-roman-reigns-head-of-the-table-theme-song",
+            answer: "Roman Reigns",
+          },
+
+          {
+            url: "https://soundcloud.com/user-439337464/maxwell-jacob-feinstein-mjf",
+            answer: "MJF",
+          },
+
+          {
+            url: "https://soundcloud.com/user-22936493/aew-britt-baker-theme-song-the-epic",
+            answer: "Dr. Britt Baker DMD",
+          },
+
+          {
+            url: "https://soundcloud.com/espaciowwetv/wwe-nxt-johnny-gargano-rebel-heart-official-theme",
+            answer: "Johnny Gargano",
+          },
+
+          {
+            url: "https://soundcloud.com/user-68402907/wardlow-aew-theme",
+            answer: "Wardlow",
+          },
+
+          {
+            url: "https://soundcloud.com/user-828326915/kairi-hojo-sane-stardom-theme",
+            answer: "KAIRI"
+          },
+
+          {
+            url: "https://soundcloud.com/wwegriffen/razor-ramon-theme-song-bad",
+            answer: "Razor Ramon",
+          },
+
+          {
+            url: "https://soundcloud.com/weiweiweiweiwei/cfo-the-rising-sun-shinsuke-nakamura-wwe-nxt-theme-song",
+            answer: "Shinsuke Nakamura",
+          },
+
+          {
             url: "https://soundcloud.com/xbite-97900268/cody-rhodes-wwe-entrance-theme",
             answer: "Cody Rhodes",
           },
@@ -87,6 +220,16 @@ var app = (function () {
             answer: "Super Elite",
           },
 
+
+          {
+            url: "https://soundcloud.com/ogb64/aleister-black-root-of-all-evil-feat-incendiary-official-theme",
+            answer: "Aleister Black",
+          },
+
+          {
+            url: "https://soundcloud.com/ramszx/matt-riddle-hey-bro",
+            answer: "Matt Riddle",
+          },
           {
             url: "https://soundcloud.com/allelitewrestling/christian-cage-theme",
             answer: "Christian Cage",
@@ -133,66 +276,6 @@ var app = (function () {
           },
           
           {
-            url: "https://soundcloud.com/user-828326915/oedo-tai-2nd-stardom-theme",
-            answer: "Oedo Tai",
-          },
-
-          {
-            url: "https://soundcloud.com/espaciowwetv/wwe-nxt-johnny-gargano-rebel-heart-official-theme",
-            answer: "Johnny Gargano",
-          },
-
-          {
-            url: "https://soundcloud.com/user-68402907/wardlow-aew-theme",
-            answer: "Wardlow",
-          },
-
-          {
-            url: "https://soundcloud.com/user-828326915/kairi-hojo-sane-stardom-theme",
-            answer: "KAIRI"
-          },
-
-          {
-            url: "https://soundcloud.com/wwegriffen/razor-ramon-theme-song-bad",
-            answer: "Razor Ramon",
-          },
-
-          {
-            url: "https://soundcloud.com/weiweiweiweiwei/cfo-the-rising-sun-shinsuke-nakamura-wwe-nxt-theme-song",
-            answer: "Shinsuke Nakamura",
-          },
-
-          {
-            url: "https://soundcloud.com/ogb64/aleister-black-root-of-all-evil-feat-incendiary-official-theme",
-            answer: "Aleister Black",
-          },
-
-          {
-            url: "https://soundcloud.com/ramszx/matt-riddle-hey-bro",
-            answer: "Matt Riddle",
-          },
-
-          {
-            url: "https://soundcloud.com/ogb64/pete-dunne-bruiserweight-official-theme",
-            answer: "Pete Dunne",
-          },
-
-          {
-            url: "https://soundcloud.com/user-385039442/bray-wyatt-the-fiend-let-me-in-entrance-theme",
-            answer: "Bray Wyatt/The Fiend",
-          },
-
-          {
-            url: "https://soundcloud.com/soleil-gaskin/proud-n-powerful",
-            answer: "Proud N Powerful",
-          },
-
-          {
-            url: "https://soundcloud.com/wg99/jon-moxley-1st-aew-theme-song",
-            answer: "Jon Moxley",
-          },
-
-          {
             url: "https://soundcloud.com/gavino-bernal/jon-moxley-njpw-theme-song-death-rider",
             answer: "Jon Moxley",
           },
@@ -226,6 +309,21 @@ var app = (function () {
             url: "https://soundcloud.com/ramszx/undisputed-era-theme-song",
             answer: "Undisputed Era",
           },
+          {
+            url: "https://soundcloud.com/jesus-sewell/the-hardy-boyz-loaded",
+            answer: "The Hardy Boyz",
+          },
+
+          {
+            url: "https://soundcloud.com/espaciowwetv/street-profits-bring-the-swag-official-themehq",
+            answer: "Street Profits",
+          },
+
+          {
+            url: "https://soundcloud.com/wg99/shawn-spears-aew-theme-song",
+            answer: "Shawn Spears",
+          },
+
 
           {
             url: "https://soundcloud.com/alec-hughes-332289163/all-about-tha-boom",
@@ -253,21 +351,6 @@ var app = (function () {
           },
 
           {
-            url: "https://soundcloud.com/jesus-sewell/the-hardy-boyz-loaded",
-            answer: "The Hardy Boyz",
-          },
-
-          {
-            url: "https://soundcloud.com/espaciowwetv/street-profits-bring-the-swag-official-themehq",
-            answer: "Street Profits",
-          },
-
-          {
-            url: "https://soundcloud.com/wg99/shawn-spears-aew-theme-song",
-            answer: "Shawn Spears",
-          },
-
-          {
             url: "https://soundcloud.com/aaron-roberts-96/no-one-will-survive-tommaso",
             answer: "Tomasso Ciampa",
           },
@@ -275,16 +358,6 @@ var app = (function () {
           {
             url: "https://soundcloud.com/total-wrestling-network/bayley-deliverance-entrance-theme",
             answer: "Bayley",
-          },
-
-          {
-            url: "https://soundcloud.com/weiweiweiweiwei/cfo-destroyer-wwe-nxt-samoa-joes-theme-song",
-            answer: "Samoa Joe",
-          },
-
-          {
-            url: "https://soundcloud.com/fansmackdownv2/sami-zayn-worlds-apart",
-            answer: "Sami Zayn",
           },
 
           {
@@ -297,60 +370,6 @@ var app = (function () {
             answer: "Asuka",
           },
 
-          {
-            url: "https://soundcloud.com/weiweiweiweiwei/aj-styles-phenomenal-official-wwe-theme-song-by-cfo",
-            answer: "AJ Styles",
-          },
-
-          {
-            url: "https://soundcloud.com/weiweiweiweiwei/cfos-skys-the-limit-sb",
-            answer: "Sasha Banks",
-          },
-
-          {
-            url: "https://soundcloud.com/masterjim87/the-wingmen-aew-theme-song-the",
-            answer: "Ryan Nemeth",
-          },
-
-          {
-            url: "https://soundcloud.com/pedro-oliveira-96824463/tarzan-boy",
-            answer: "Jungle Boy",
-          },
-
-          {
-            url: "https://soundcloud.com/jcenawwe1/undertaker-theme-song-2010",
-            answer: "The Undertaker"
-          },
-
-          {
-            url: "https://soundcloud.com/total-wrestling-network/wwe-roman-reigns-head-of-the-table-theme-song",
-            answer: "Roman Reigns",
-          },
-
-          {
-            url: "https://soundcloud.com/user-439337464/maxwell-jacob-feinstein-mjf",
-            answer: "MJF",
-          },
-
-          {
-            url: "https://soundcloud.com/user-22936493/aew-britt-baker-theme-song-the-epic",
-            answer: "Dr. Britt Baker DMD",
-          },
-          
-          {
-            url: "https://soundcloud.com/rancid-official/ruby-soho-1",
-            answer: "Ruby Soho",
-          },
-
-          {
-            url: "https://soundcloud.com/wwe_entertainmenthd/wwe-nxt-celtic-invsaion-becky-lynch-4th-theme",
-            answer: "Becky Lynch",
-          },
-
-          {
-            url: "https://soundcloud.com/wg99/th2-aew-theme-song",
-            answer: "TH2",
-          },
 
           {
             url: "https://soundcloud.com/wg99/cold-world-eddie-kingston-aew",
@@ -360,26 +379,6 @@ var app = (function () {
           {
             url: "https://soundcloud.com/wg99/sting-aew-theme",
             answer: "Sting",
-          },
-
-          {
-            url: "https://soundcloud.com/wg99/pac-aew-theme-song",
-            answer: "PAC",
-          },
-
-          {
-            url: "https://soundcloud.com/wg99/malakai-black-aew-theme",
-            answer: "Malakai Black",
-          },
-
-          {
-            url: "https://soundcloud.com/wg99/penelope-ford-aew-theme",
-            answer: "Penelope Ford",
-          },
-
-          {
-            url: "https://soundcloud.com/wg99/jade-cargill-aew-theme",
-            answer: "Jade Cargill",
           },
         ],
         Pn
