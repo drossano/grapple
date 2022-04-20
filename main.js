@@ -4845,7 +4845,7 @@ var app = (function () {
             "\n\n" +
             t +
             "\n\n" 
-             + "https://grapple.cool"
+             + "http://grapple.cool"
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
