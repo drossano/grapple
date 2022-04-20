@@ -4846,7 +4846,7 @@ var app = (function () {
             "\n\n" +
             t +
             "\n\n" 
-            // + "https://joywave-heardle.glitch.me/"
+             + "https://grapple.cool"
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
